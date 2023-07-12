@@ -1,0 +1,212 @@
+body{
+    font-family: Lato;
+    background: rgba(229, 84, 115, 0.10);
+}
+
+p{
+    color: rgba(39, 39, 39, 0.60);
+
+}
+/* section-1 */
+
+.heading{
+        color: #272727;
+        font-size: 50px;
+        font-weight: 900;
+}
+
+.paragraph {
+    display: flex;
+    width: 634px;
+
+}
+
+.flex-container {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding: 30px 00px 30px 130px;
+}
+
+.heading-img {
+        width: 60%;
+        padding: 30px 130px;
+}
+
+.link-button {
+
+        display: inline-flex;
+        padding: 20px 43px;
+        align-items: flex-start;
+        gap: 10px;
+        border-radius: 8px;
+        background: #E55473;
+
+        color: #FFF;
+        font-size: 20px;
+        font-weight: 700;
+        line-height: normal;
+        text-decoration: none;
+}
+
+/* Section-2 */
+
+.align-layout{
+    text-align: center;
+    font-style: normal;
+
+}
+
+
+
+.feature-h{
+    font-size: 40px;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.feature-flex{
+    display: flex;
+    justify-content: center;
+    margin: 20px 30px;
+    padding: 10px 10px;
+    
+
+    
+}
+
+.feature-border{
+    display: flexbox;
+    justify-content: center;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    margin: 00px 15px;
+}
+h5{
+    text-align: center;
+    font-weight: 700;
+    font-size: 24px;
+}
+
+/* Section-3 */
+.support-flex{
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+.info-flex{
+    display: flex;
+    justify-content: center;
+    color: rgba(39, 39, 39, 0.80);;
+}
+
+/* section-4 */
+
+.offer-heading {
+    color: #272727;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.offer-flex {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.offer-half-width {
+    
+    padding: 200px 50px;
+}
+
+.offer-img {
+    width: 80%;
+    padding: 150px 0px;
+}
+
+.link-button {
+
+
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+    background: #E55473;
+
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+}
+
+/* section-4 */
+
+
+.instagram-flex{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+/* section-5 */
+.background {
+    background-image: url("/Flower Asset/Rectangle 9.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   
+
+}
+
+.bg-text {
+   
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin: 100px 100px;
+}
+
+input{
+    
+    border: 0px;
+    margin-right:10px ;
+}
+
+/* bonus section */
+.payment-method{
+    text-align: center;
+    background-color: #d4d4d4;
+    padding: 50px 50px 60px 50px;
+}
+
+.payment-flex{
+    display: flex;
+
+
+}
+
+
+
+/* footer */
+
+footer{
+    background-color: #111010;
+    height: 290px;
+    margin-top: 50px;
+}
+
+
+
+    
+
+
+
+
+
+
+
